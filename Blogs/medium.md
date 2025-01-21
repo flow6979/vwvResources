@@ -1,2 +1,2 @@
 1. Colima installation - [https://medium.com/@avabhyankar22/using-colima-to-run-docker-and-kubernetes-locally-on-a-mac-5d8e0a13e1f](https://medium.com/@avabhyankar22/using-colima-to-run-docker-and-kubernetes-locally-on-a-mac-5d8e0a13e1f)
-2. 
+2. Dynamodb local - [https://medium.com/@shahabaj.s.shaikh/local-development-with-dynamodb-setup-and-usage-guide-8d3a9adec626](https://medium.com/@shahabaj.s.shaikh/local-development-with-dynamodb-setup-and-usage-guide-8d3a9adec626)
