@@ -10,3 +10,8 @@
 10. [The architecture of today’s LLM applications](https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/)
 11. [Working with LLMs in the Backend](https://sgerogia.github.io/LLM-Backend/)
 12. [Leveraging LLM as Backend Service](https://www.ijfmr.com/papers/2025/1/36083.pdf)
+13. [How do Transformers work?](https://huggingface.co/learn/llm-course/en/chapter1/4)
+14. [How Transformers Work: A Detailed Exploration of Transformer Architecture](https://www.datacamp.com/tutorial/how-transformers-work)
+15. [Transformer Architecture in Large Language Models](https://www.truefoundry.com/blog/transformer-architecture)
+16. [Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
+17. [LLM Inference Optimization 101](https://www.digitalocean.com/community/tutorials/llm-inference-optimization)
